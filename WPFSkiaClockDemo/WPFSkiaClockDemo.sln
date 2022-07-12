@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFSkiaClockDemo", "WPFSkiaClockDemo.csproj", "{F021C230-2920-44A3-A1EE-EB0D55786C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F021C230-2920-44A3-A1EE-EB0D55786C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F021C230-2920-44A3-A1EE-EB0D55786C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F021C230-2920-44A3-A1EE-EB0D55786C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F021C230-2920-44A3-A1EE-EB0D55786C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B951AEA-31FF-48C6-9669-EA9DFF2C0B1A}
+	EndGlobalSection
+EndGlobal
